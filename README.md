@@ -1,4 +1,4 @@
-## Hi there👋, this is Rui 'SoRui' Qin!
+## Hi there👋, this is Rui Qin!
 
 - 😄 I’m a PhD student in College of Pharmaceutical Sciences, Zhejiang University.
 - 🔭 My research interests include cheminformatics, chemical language models and application of generative models in drug discovery.
@@ -6,7 +6,6 @@
 - ⚽ I am a Culér, fan of FC Barcelona ![FCB](fcb.svg).
 - 🎶 Music is an essential part of my life, especially EDM🎛️. I am a big fan of Anjuna labels ![Anjuna](ajn.svg). 
 - 🕯️ My profile picture is in honor of one of my favorite electronic music bands, Leaving Laurel.
-- ⚡ Fun fact: 'SoRui' is the nickname which means 'the crafty Rui'🤪.
   
 ### Stats
 <div>
