@@ -6,9 +6,3 @@
 - ⚽ I am a Culér, fan of FC Barcelona ![FCB](fcb.svg).
 - 🎶 Music is an essential part of my life, especially EDM🎛️. I am a big fan of Anjuna labels ![Anjuna](ajn.svg). 
 - 🕯️ My profile picture is in honor of one of my favorite electronic music bands, Leaving Laurel.
-  
-### Stats
-<div>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sorui-qin&show_icons=true&theme=transparent" alt="sorui-qin's status" /></p>
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sorui-qin&show_icons=true&layout=compact&theme=transparent" alt="sorui-qin's top languages" /></p>
-</div>
